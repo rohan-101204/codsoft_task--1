@@ -16,9 +16,8 @@ This repository contains the final project completed as part of my CodSoft Inter
 
 ## Screenshots
 
-Include some screenshots here to showcase the design and layout of your landing page.
-
-## License![landing page](https://github.com/user-attachments/assets/07a6cd65-6cad-41c4-9479-44af570a7d29)
+![landing page](https://github.com/user-attachments/assets/07a6cd65-6cad-41c4-9479-44af570a7d29)
+## License
 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
